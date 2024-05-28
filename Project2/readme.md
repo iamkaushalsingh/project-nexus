@@ -7,8 +7,11 @@ This project is a streamlined web application designed for restaurant management
 The project comprises the following files:
 
 1.**index.ejs**: The main page displaying a welcome message and a logout button.
+
 2.**login.ejs**: The login page with a form for email and password input.
+
 3.**signup.ejs**: The signup page with a form for name, email, and password input.
+
 4.**server.j**s: The Node.js server file, handling user authentication, routing, and middleware configurations.
 
 ## Usage
