@@ -8,7 +8,7 @@ Welcome to Project Nexus, a repository showcasing two web development projects: 
 
 Created an attractive login and signup page using HTML, CSS nad JavaScript focusing on aesthetics, responsiveness, and CSS decoration. Implemented basic form validation for the signup page.
 
-### [Project 2: Simple Restaurant Website Login and Signup Authentication](./Project2)
+### [Project 2: Simple Restaurant Website Login and Signup Authentication](./Project 2)
 
 #### Overview
 
