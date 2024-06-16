@@ -18,4 +18,4 @@ In this project, we developed a simple restaurant website featuring an eye-catch
 
 #### Overview
 
-A modern and responsive website template for a software company named "nextechy". The website features dynamic content, including sections for home, about us, services, maps, contact information and social media integration. The project utilizes Bootstrap for styling, Express.js for server-side rendering, and MongoDB for data storage. The codebase follows a structured layout, and key dependencies include Bootstrap, Express, Handlebars, jQuery, Mongoose, and Validator.
+A modern and responsive website template for a software company named "Software Service". The website features dynamic content, including sections for home, about us, services, maps, contact information and social media integration. The project utilizes Bootstrap for styling, Express.js for server-side rendering, and MongoDB for data storage. The codebase follows a structured layout, and key dependencies include Bootstrap, Express, Handlebars, jQuery, Mongoose, and Validator.
