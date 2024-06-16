@@ -1,8 +1,8 @@
-# nextechy Website
+# Software Service Website
 
 ## Description
 
-This repository contains the code for the nextechy website, inspired by the tutorials from [ThapaTechnical](https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA). The website is a simple HTML template with dynamic content rendered using Express.js. It includes sections for the home page, about us, services, maps, and contact information. The styling is done using [Bootstrap](https://getbootstrap.com/), and the data is stored in a [MongoDB](https://www.mongodb.com/) database.
+This repository contains the code for the software website, inspired by the tutorials from [ThapaTechnical](https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA). The website is a simple HTML template with dynamic content rendered using Express.js. It includes sections for the home page, about us, services, maps, and contact information. The styling is done using [Bootstrap](https://getbootstrap.com/), and the data is stored in a [MongoDB](https://www.mongodb.com/) database.
 
 ## Table of Contents
 
