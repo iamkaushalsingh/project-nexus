@@ -13,3 +13,9 @@ This project showcases a visually appealing login and signup page created using 
 #### Overview
 
 In this project, we developed a simple restaurant website featuring an eye-catching background and user-friendly interface. The site includes integrated login and signup functionality, and it connects to a backend system to handle user authentication.
+
+### [Project3: Website for a Software Company](./Project3)
+
+#### Overview
+
+A modern and responsive website template for a software company named "nextechy". The website features dynamic content, including sections for home, about us, services, maps, contact information and social media integration. The project utilizes Bootstrap for styling, Express.js for server-side rendering, and MongoDB for data storage. The codebase follows a structured layout, and key dependencies include Bootstrap, Express, Handlebars, jQuery, Mongoose, and Validator.
